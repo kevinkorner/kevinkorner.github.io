@@ -67,7 +67,8 @@ body { f
 	border-top: 1px solid #ccc; 
 	text-align: center; 
 }
-#ft p { margin-bottom: 0; 
+#ft p { 
+	margin-bottom: 0; 
 	text-align: center;   
 }
 
@@ -178,6 +179,7 @@ a#pdf:hover {
 	padding-left: 40px ;
   	text-indent: -40px ;
 }
+
 .last { 
 	border: none; 
 }
